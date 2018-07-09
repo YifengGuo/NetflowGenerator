@@ -1,4 +1,4 @@
-package stream_processing;
+package model;
 
 
 public class NetFlow {
